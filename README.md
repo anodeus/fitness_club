@@ -33,31 +33,6 @@ The repository contains the following files and directories:
 * **JavaScript**: For interactive elements (if applicable).
 
 
-## 📸 Website Highlights
-
-![Hero Section](assets/img/screenshots/Screenshot_Hero.png)
-*The homepage hero section with a welcoming message and call-to-action.*
-
-![Our Classes](assets/img/screenshots/Screenshot_Hero2.png)
-*Overview of fitness classes with timings and schedules.*
-
-![Trainers Section](assets/img/screenshots/Screenshot_Offer.png)
-*Meet our professional trainers and staff.*
-
-![Testimonials](assets/img/screenshots/Screenshot_Offer2.png)
-*Feedback from members sharing their experience.*
-
-![Contact & Footer](assets/img/screenshots/Screenshot_Table.png)
-*Contact form and footer with social links and additional information.*
-![Contact & Footer](assets/img/screenshots/Screenshot_Table2.png)
-*Contact form and footer with social links and additional information.*
-![Contact & Footer](assets/img/screenshots/Screenshot_Testimonial3.png)
-*Contact form and footer with social links and additional information.*
-![Contact & Footer](assets/img/screenshots/Screenshot_Z_Footer.png)
-*Contact form and footer with social links and additional information.*
-
-
-
 
 
 ---
