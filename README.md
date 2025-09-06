@@ -31,18 +31,26 @@ The repository contains the following files and directories:
 * **HTML5**: For structuring the content.
 * **CSS3**: For styling and layout.
 * **JavaScript**: For interactive elements (if applicable).
-* **SCSS**: For modular and maintainable stylesheets.
 
-## 📸 Screenshots
 
-![Homepage](https://via.placeholder.com/800x400.png?text=Homepage)
-*The homepage showcasing the club's introduction.*
+## 📸 Website Highlights
 
-![Class Schedule](https://via.placeholder.com/800x400.png?text=Class+Schedule)
-*The weekly class schedule for members.*
+![Hero Section](https://via.placeholder.com/800x400.png?text=Hero+Section)
+*The homepage hero section with a welcoming message and call-to-action.*
 
-![Membership Plans](https://via.placeholder.com/800x400.png?text=Membership+Plans)
-*Overview of available membership plans.*
+![Our Classes](https://via.placeholder.com/800x400.png?text=Our+Classes)
+*Overview of fitness classes with timings and schedules.*
+
+![Trainers Section](https://via.placeholder.com/800x400.png?text=Trainers)
+*Meet our professional trainers and staff.*
+
+![Testimonials](https://via.placeholder.com/800x400.png?text=Testimonials)
+*Feedback from members sharing their experience.*
+
+![Contact & Footer](https://via.placeholder.com/800x400.png?text=Contact+Section)
+*Contact form and footer with social links and additional information.*
+
+
 
 ## 📌 How to Use
 
