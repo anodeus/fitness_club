@@ -35,21 +35,57 @@ The repository contains the following files and directories:
 
 ## 📸 Website Highlights
 
-![Hero Section](https://via.placeholder.com/800x400.png?text=Hero+Section)
+![Hero Section](assets/img/screenshots/Screenshot_Hero.png)
 *The homepage hero section with a welcoming message and call-to-action.*
 
-![Our Classes](https://via.placeholder.com/800x400.png?text=Our+Classes)
+![Our Classes](assets/img/screenshots/Screenshot_Hero2.png)
 *Overview of fitness classes with timings and schedules.*
 
-![Trainers Section](https://via.placeholder.com/800x400.png?text=Trainers)
+![Trainers Section](assets/img/screenshots/Screenshot_Offer.png)
 *Meet our professional trainers and staff.*
 
-![Testimonials](https://via.placeholder.com/800x400.png?text=Testimonials)
+![Testimonials](assets/img/screenshots/Screenshot_Offer2.png)
 *Feedback from members sharing their experience.*
 
-![Contact & Footer](https://via.placeholder.com/800x400.png?text=Contact+Section)
+![Contact & Footer](assets/img/screenshots/Screenshot_Table.png)
+*Contact form and footer with social links and additional information.*
+![Contact & Footer](assets/img/screenshots/Screenshot_Table2.png)
+*Contact form and footer with social links and additional information.*
+![Contact & Footer](assets/img/screenshots/Screenshot_Testimonial3.png)
+*Contact form and footer with social links and additional information.*
+![Contact & Footer](assets/img/screenshots/Screenshot_Z_Footer.png)
 *Contact form and footer with social links and additional information.*
 
+
+
+
+
+---
+
+## 📸 Website Highlights
+
+![Navigation & Hero Section](assets/img/screenshots/Screenshot_Hero.png)
+*The homepage featuring the navigation bar and hero section with a welcoming message.*
+
+![About Us Section](assets/img/screenshots/Screenshot_Hero2.png)
+*Overview of the fitness club, mission, and introduction to the services.*
+
+![Offers Section](assets/img/screenshots/Screenshot_Offer.png)
+*Special offers, promotions, and membership deals available.*
+
+![Trainers Section](assets/img/screenshots/Screenshot_Offer2.png)
+*Meet our professional trainers and staff.*
+
+![Classes Timetable](assets/img/screenshots/Screenshot_Table.png)
+*Weekly schedule for all fitness classes.*
+
+![Testimonials Section](assets/img/screenshots/Screenshot_Testimonial3.png)
+*Feedback from members sharing their experiences.*
+
+![Footer Section](assets/img/screenshots/Screenshot_Z_Footer.png)
+*Footer with contact information, social links, and additional resources.*
+
+---
 
 
 ## 📌 How to Use
